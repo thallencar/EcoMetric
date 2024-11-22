@@ -1,12 +1,5 @@
 # Ecometric API
 
-#### Integrantes
-- Bruno Mathews Ciccio De Oliveira – RM99097 
-- Isabelle Corsi – RM97751 
-- José Luiz Ferreira Duarte – RM99488 
-- Marina De Souza Cucco – RM551569 
-- Thalita Fachinete de Alencar – RM99292 
-
 ## O Projeto
 Ecometric é um sistema  sistema de monitoramento energético para pequenas e médias empresas, focado em melhorar a eficiência e promover a sustentabilidade. Utilizando Internet das Coisas (IoT), o sistema registra e analisa o consumo de energia elétrica, oferecendo insights personalizados sobre como reduzir o consumo e adotar fontes de energia renovável. Além disso, ele fornece sugestões para otimizar a eficiência energética, ajudando as empresas a implementar práticas mais sustentáveis e a alcançar metas relacionadas a práticas ESG (ambientais, sociais e de governança). O objetivo é proporcionar uma solução que não apenas reduza custos, mas também contribua para a transformação das empresas em organizações mais responsáveis e alinhadas com as exigências ambientais e regulatórias.
 
