@@ -1,0 +1,6 @@
+@EcoMetric.API_HostAddress = http://localhost:5052
+
+GET {{EcoMetric.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcoMetric.API", "EcoMetric.API\EcoMetric.API.csproj", "{9822AB55-F0D9-4961-8394-1C724685B512}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcoMetric.Business", "EcoMetric.Business\EcoMetric.Business.csproj", "{AE73D5D4-8E58-4181-BEA5-A66884903C72}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcoMetric.Repositories", "EcoMetric.Repositories\EcoMetric.Repositories.csproj", "{77ABBE75-F6BF-4695-BC63-7AFAF1A28808}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcoMetric.Data", "EcoMetric.Data\EcoMetric.Data.csproj", "{E461A364-7015-4E43-A90E-B456AE0C9CED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcoMetric.Tests", "EcoMetric.Tests\EcoMetric.Tests.csproj", "{4BCE8635-13D2-4ACD-97AC-382007C0C3E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoMetric.ML", "EcoMetric.ML\EcoMetric.ML.csproj", "{D16EDE11-0CE8-4990-A5E5-7DCE913B0A31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9822AB55-F0D9-4961-8394-1C724685B512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9822AB55-F0D9-4961-8394-1C724685B512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9822AB55-F0D9-4961-8394-1C724685B512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9822AB55-F0D9-4961-8394-1C724685B512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE73D5D4-8E58-4181-BEA5-A66884903C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE73D5D4-8E58-4181-BEA5-A66884903C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE73D5D4-8E58-4181-BEA5-A66884903C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE73D5D4-8E58-4181-BEA5-A66884903C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77ABBE75-F6BF-4695-BC63-7AFAF1A28808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77ABBE75-F6BF-4695-BC63-7AFAF1A28808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77ABBE75-F6BF-4695-BC63-7AFAF1A28808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77ABBE75-F6BF-4695-BC63-7AFAF1A28808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E461A364-7015-4E43-A90E-B456AE0C9CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E461A364-7015-4E43-A90E-B456AE0C9CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E461A364-7015-4E43-A90E-B456AE0C9CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E461A364-7015-4E43-A90E-B456AE0C9CED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BCE8635-13D2-4ACD-97AC-382007C0C3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCE8635-13D2-4ACD-97AC-382007C0C3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCE8635-13D2-4ACD-97AC-382007C0C3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCE8635-13D2-4ACD-97AC-382007C0C3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D16EDE11-0CE8-4990-A5E5-7DCE913B0A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16EDE11-0CE8-4990-A5E5-7DCE913B0A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16EDE11-0CE8-4990-A5E5-7DCE913B0A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16EDE11-0CE8-4990-A5E5-7DCE913B0A31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81AAA242-63EF-4B69-B376-9AC25C759091}
+	EndGlobalSection
+EndGlobal
